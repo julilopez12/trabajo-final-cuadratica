@@ -1,5 +1,3 @@
-
-
 # --- APARTADO 1: DEFINICIÓN DE DATOS ---
 valores_x = [0, 5, 10, 15, 20, 25, 30, 40, 50]
 costos_calculados = []
