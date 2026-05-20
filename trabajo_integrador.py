@@ -1,9 +1,4 @@
-# =====================================================================
-# UNIVERSIDAD TECNOLÓGICA NACIONAL - FACULTAD REGIONAL VILLA MARÍA
-# ASIGNATURA: PROGRAMACIÓN I & MATEMÁTICA
-# =====================================================================
-# Archivo: trabajo_integrador.py
-# =====================================================================
+
 
 # --- APARTADO 1: DEFINICIÓN DE DATOS ---
 valores_x = [0, 5, 10, 15, 20, 25, 30, 40, 50]
