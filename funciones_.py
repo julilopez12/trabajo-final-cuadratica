@@ -16,7 +16,7 @@ for x in x_curva:
     y_b = 70 * x + 50
     costos_B.append(y_b)
    # funcion cuadratica - juliana 
-   
+    
     y_c = -2 * (x ** 2) + 80 * x + 100
     costos_C.append(y_c)
 
